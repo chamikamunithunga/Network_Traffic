@@ -53,3 +53,15 @@ This is a Python-based network monitoring tool that captures network packets and
 - `psutil` library for system and network information
 - `ping3` library for pinging a host
 
+
+#04 Network Bandwidth Calculator
+==============================
+
+This Python script calculates the download and upload bandwidth of your internet connection using the `speedtest-cli` library.
+
+## Features
+-----------
+
+- Measures download speed in Mbps.
+- Measures upload speed in Mbps.
+- Retrieves the best server for testing based on ping.
