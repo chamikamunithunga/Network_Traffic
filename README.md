@@ -33,6 +33,22 @@ A Python-based network performance monitoring tool that checks bandwidth usage, 
 ## Requirements
 ----------------
 
+
+
+
+#03 Network Monitoring Tool (network12.py)
+=========================================
+
+This is a Python-based network monitoring tool that captures network packets and scans specified IP addresses for open ports. It utilizes the Scapy library to sniff packets and checks for known malicious IP addresses.
+
+## Features
+------------
+
+- **Packet Sniffing**: Captures network packets in real-time.
+- **Malicious IP Detection**: Checks incoming packets against a predefined list of known malicious IP addresses.
+- **Port Scanning**: Scans specified IP addresses for open ports within a specified range.
+
+
 - Python 3.6 or higher
 - `psutil` library for system and network information
 - `ping3` library for pinging a host
