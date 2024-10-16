@@ -14,7 +14,7 @@ Captures packets transmitted to and from a specified website.
 Displays the captured packets in real-time.
 Runs on macOS and requires elevated permissions to access network interfaces.
 
-#01 Network Performance Monitor
+#02 Network Performance Monitor
 ==============================
 
 ![Screenshot 2024-10-16 at 8 17 03 PM](https://github.com/user-attachments/assets/ec180dd2-0537-4d7b-bc54-7fe1a92af4a4)
