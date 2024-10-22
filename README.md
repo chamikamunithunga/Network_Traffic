@@ -65,3 +65,14 @@ This Python script calculates the download and upload bandwidth of your internet
 - Measures download speed in Mbps.
 - Measures upload speed in Mbps.
 - Retrieves the best server for testing based on ping.
+
+#05 Location Tracking
+======================
+This application includes a location tracking feature that allows you to track the audio file's origin. The tracking data is represented by a unique number that corresponds to the geographical location of the audio source.
+
+## How it Works
+- When you upload an audio file, the application captures its geographical coordinates (latitude and longitude) based on the metadata embedded in the file (if available).
+- A unique identifier is generated for each location, which can be used for mapping or tracking purposes.
+
+
+
